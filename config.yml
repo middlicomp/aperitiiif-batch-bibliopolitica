@@ -1,7 +1,7 @@
 # batch config
 
 label:          'Bibliopolítica'
-description:    'Collection of Resources from the Chicano Studies Library'
+description:    'Chicano Studies Library Archival Collection'
 attribution:    'Digitized by UC Berkeley for use in Bibliopolítica project'
 
 presentation_api_url: 'https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com'
