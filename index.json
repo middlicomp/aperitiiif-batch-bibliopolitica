@@ -17,7 +17,7 @@
   },
   {
     "id": "CSL00003",
-    "label": "Chicano Studies Library Serials Collection",
+    "label": "Chicano Studies Library Serials Collection Advertisement",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00003/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00003_CSL00003_001/square/250,/0/default.jpg",
     "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00003_CSL00003_001/full/full/0/default.jpg",
@@ -25,7 +25,7 @@
   },
   {
     "id": "CSL00004",
-    "label": "Chicanas in the 80's: Unsettled Issues",
+    "label": "Chicanas in the 80's: Unsettled Issues (title page)",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00004/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00004_CSL00004_001/square/250,/0/default.jpg",
     "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00004_CSL00004_001/full/full/0/default.jpg",
@@ -49,7 +49,7 @@
   },
   {
     "id": "CSL00007",
-    "label": "Job Vacancy Listing: Library Coordinator (1975)",
+    "label": "Job Vacancy Listing: Chicano Studies Library Coordinator",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00007/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00007_CSL00007_001/square/250,/0/default.jpg",
     "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00007_CSL00007_001/full/full/0/default.jpg",
@@ -57,7 +57,7 @@
   },
   {
     "id": "CSL00008",
-    "label": "Goals of the Ethnic Studies Libraries (1993)",
+    "label": "Goals of the Ethnic Studies Libraries",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00008/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00008_CSL00008_001/square/250,/0/default.jpg",
     "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00008_CSL00008_001/full/full/0/default.jpg",
@@ -65,7 +65,7 @@
   },
   {
     "id": "CSL00009",
-    "label": "CSL Donor Reception Invitation (1993)",
+    "label": "Chicano Studies Library Donor Reception Invitation",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00009/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00009_CSL00009_001/square/250,/0/default.jpg",
     "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00009_CSL00009_001/full/full/0/default.jpg",
@@ -73,7 +73,7 @@
   },
   {
     "id": "CSL00010",
-    "label": "Undocumented Scars Publicity Mailer (1993)",
+    "label": "Undocumented Scars Exhibit Publicity Mailer",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00010/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00010_CSL00010_001/square/250,/0/default.jpg",
     "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00010_CSL00010_001/full/full/0/default.jpg",
@@ -81,7 +81,7 @@
   },
   {
     "id": "CSL00011",
-    "label": "Staff Meeting Minutes 3/3/89",
+    "label": "Staff Meeting Minutes, March 3, 1989",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00011/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00011_CSL00011_001/square/250,/0/default.jpg",
     "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00011_CSL00011_001/full/full/0/default.jpg",
@@ -89,7 +89,7 @@
   },
   {
     "id": "CSL00012",
-    "label": "Letter from Wilma Salvatori Torri (1974) ",
+    "label": "Letter from Wilma Salvatori Torri, September 10, 1974",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00012/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00012_CSL00012_001/square/250,/0/default.jpg",
     "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00012_CSL00012_001/full/full/0/default.jpg",
@@ -97,7 +97,7 @@
   },
   {
     "id": "CSL00013",
-    "label": "CU News Volume 48, Number 22 6/10/93",
+    "label": "CU News. (Volume 48, Number 22, June 10, 1993)",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00013/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00013_CSL00013_001/square/250,/0/default.jpg",
     "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00013_CSL00013_001/full/full/0/default.jpg",
@@ -105,7 +105,7 @@
   },
   {
     "id": "CSL00014",
-    "label": "Letter from Lea Burroughs (1995)",
+    "label": "Letter from Lea Burroughs, October 30, 1995",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00014/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00014_CSL00014_001/square/250,/0/default.jpg",
     "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00014_CSL00014_001/full/full/0/default.jpg",
@@ -113,7 +113,7 @@
   },
   {
     "id": "CSL00015",
-    "label": "Mexican Amerian Biographies Acknowledgement ",
+    "label": "Mexican Amerian Biographies (Acknowledgements)",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00015/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00015_CSL00015_001/square/250,/0/default.jpg",
     "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00015_CSL00015_001/full/full/0/default.jpg",
@@ -121,7 +121,7 @@
   },
   {
     "id": "CSL00016",
-    "label": "Letter from Sherry Levy-Reiner, Ph.D. (1991)",
+    "label": "Letter from Sherry Levy-Reiner, July 1, 1991",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00016/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00016_CSL00016_001/square/250,/0/default.jpg",
     "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00016_CSL00016_001/full/full/0/default.jpg",
@@ -129,7 +129,7 @@
   },
   {
     "id": "CSL00017",
-    "label": "Letters to and from Alexandr Vaschenko(1988)",
+    "label": "Letters to and from Alexandr Vaschenko, 1997 and 1998",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00017/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00017_CSL00017_001/square/250,/0/default.jpg",
     "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00017_CSL00017_001/full/full/0/default.jpg",
@@ -137,7 +137,7 @@
   },
   {
     "id": "CSL00018",
-    "label": "Chicano Feminist Thought Acknowledgements ",
+    "label": "Chicana Feminist Thought (Acknowledgements)",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00018/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00018_CSL00018_001/square/250,/0/default.jpg",
     "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00018_CSL00018_001/full/full/0/default.jpg",
@@ -145,7 +145,7 @@
   },
   {
     "id": "CSL00019",
-    "label": "CSL Operation/Projects & Staff Assignments (1975)",
+    "label": "Chicano Studies Library Operation/Projects & Staff Assignments",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00019/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00019_CSL00019_001/square/250,/0/default.jpg",
     "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00019_CSL00019_001/full/full/0/default.jpg",
@@ -153,7 +153,7 @@
   },
   {
     "id": "CSL00020",
-    "label": "Ernesto Galarza @ UCB Flyer",
+    "label": "Ernesto Galarza at U.C. Berkeley Flier",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00020/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00020_CSL00020_001/square/250,/0/default.jpg",
     "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00020_CSL00020_001/full/full/0/default.jpg",
@@ -161,7 +161,7 @@
   },
   {
     "id": "CSL00021",
-    "label": "Imagining Aztlan Galeria de la Raza postcard (1998)",
+    "label": "Imaging Aztlan, Galeria de la Raza Postcard",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00021/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00021_CSL00021_001/square/250,/0/default.jpg",
     "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00021_CSL00021_001/full/full/0/default.jpg",
@@ -185,7 +185,7 @@
   },
   {
     "id": "CSL00024",
-    "label": "Stephens Hall Space Meeting- Nov. 21, 1994",
+    "label": "Stephens Hall Space Meeting, November 21, 1994",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00024/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00024_CSL00024_001/square/250,/0/default.jpg",
     "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00024_CSL00024_001/full/full/0/default.jpg",
@@ -193,7 +193,7 @@
   },
   {
     "id": "CSL00025",
-    "label": "Ground Floor - Stephens Hall- Floor Plan Jan. 1",
+    "label": "Ground Floor, Stephens Hall: Floor Plan, Revised Jan. 1",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00025/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00025_CSL00025_001/square/250,/0/default.jpg",
     "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00025_CSL00025_001/full/full/0/default.jpg",
@@ -201,7 +201,7 @@
   },
   {
     "id": "CSL00026",
-    "label": "Letter to Nevil Leimanis 1996",
+    "label": "Letter to Nevil Leimanis, February 7, 1996",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00026/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00026_CSL00026_001/square/250,/0/default.jpg",
     "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00026_CSL00026_001/full/full/0/default.jpg",
@@ -209,7 +209,7 @@
   },
   {
     "id": "CSL00027",
-    "label": "CDB Review in ANSS Currents (2004)",
+    "label": "Chicano Database Review, in ANSS Currents, Volume 19, Number 1, May 2004",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00027/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00027_CSL00027_001/square/250,/0/default.jpg",
     "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00027_CSL00027_001/full/full/0/default.jpg",
@@ -217,7 +217,7 @@
   },
   {
     "id": "CSL00028",
-    "label": "OCLC Publicity Flier",
+    "label": "OCLC Publicity Flier for the Chicano Database",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00028/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00028_CSL00028_001/square/250,/0/default.jpg",
     "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00028_CSL00028_001/full/full/0/default.jpg",
@@ -225,7 +225,7 @@
   },
   {
     "id": "CSL00029",
-    "label": "Letter from Library of Congress (1990)",
+    "label": "Letter from Sally H. McCallum, Library of Congress, May 24, 1990",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00029/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00029_CSL00029_001/square/250,/0/default.jpg",
     "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00029_CSL00029_001/full/full/0/default.jpg",
@@ -233,7 +233,7 @@
   },
   {
     "id": "CSL00030",
-    "label": "CSL Newsletter June 1985",
+    "label": "Chicano Studies Library Newsletter (Volume 1, Number 2, June 1985)",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00030/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00030_CSL00030_001/square/250,/0/default.jpg",
     "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00030_CSL00030_001/full/full/0/default.jpg",
@@ -241,7 +241,7 @@
   },
   {
     "id": "CSL00031",
-    "label": "CSL Newsletter March 1987",
+    "label": "Chicano Studies Library Newsletter (Volume 3, Number 1, March 1987)",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00031/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00031_CSL00031_001/square/250,/0/default.jpg",
     "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00031_CSL00031_001/full/full/0/default.jpg",
@@ -249,7 +249,7 @@
   },
   {
     "id": "CSL00032",
-    "label": "CSL Newsletter February 1986",
+    "label": "Chicano Studies Library Newsletter (Volume 2, Number 1, February 1986)",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00032/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00032_CSL00032_001/square/250,/0/default.jpg",
     "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00032_CSL00032_001/full/full/0/default.jpg",
@@ -257,7 +257,7 @@
   },
   {
     "id": "CSL00033",
-    "label": "CSL Newsletter May 1989",
+    "label": "Chicano Studies Library Newsletter (Volume 4, Number 2, May 1989)",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00033/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00033_CSL00033_001/square/250,/0/default.jpg",
     "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00033_CSL00033_001/full/full/0/default.jpg",
@@ -265,7 +265,7 @@
   },
   {
     "id": "CSL00034",
-    "label": "CSL Newsletter February 1991",
+    "label": "Chicano Studies Library Newsletter (Volume 5, Number 1, February 1991)",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00034/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00034_CSL00034_001/square/250,/0/default.jpg",
     "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00034_CSL00034_001/full/full/0/default.jpg",
@@ -273,7 +273,7 @@
   },
   {
     "id": "CSL00035",
-    "label": "Chicano Database Indexing Manual 2003",
+    "label": "Chicano Database Indexing Manual",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00035/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00035_CSL00035_001/square/250,/0/default.jpg",
     "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00035_CSL00035_001/full/full/0/default.jpg",
@@ -289,7 +289,7 @@
   },
   {
     "id": "CSL00037",
-    "label": "EBSCO Promo Flier ",
+    "label": "EBSCO Publicity Flier for Chicano Database",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00037/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00037_CSL00037_001/square/250,/0/default.jpg",
     "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00037_CSL00037_001/full/full/0/default.jpg",
@@ -313,7 +313,7 @@
   },
   {
     "id": "CSL00040",
-    "label": "Chicano Database - July 2000",
+    "label": "Chicano Database: Manufacturing Disc",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00040/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00040_CSL00040_001/square/250,/0/default.jpg",
     "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00040_CSL00040_001/full/full/0/default.jpg",
@@ -337,7 +337,7 @@
   },
   {
     "id": "CSL00043",
-    "label": "Chicano Studies UC Berkeley 1982-83",
+    "label": "Chicano Studies, UC Berkeley, 1982-83",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00043/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00043_CSL00043_001/square/250,/0/default.jpg",
     "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00043_CSL00043_001/full/full/0/default.jpg",
@@ -393,7 +393,7 @@
   },
   {
     "id": "CSL00050",
-    "label": "Chicano Database on CD-ROM",
+    "label": "Chicano Database on CD-ROM Advertisement",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00050/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00050_CSL00050_001/square/250,/0/default.jpg",
     "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00050_CSL00050_001/full/full/0/default.jpg",
@@ -401,7 +401,7 @@
   },
   {
     "id": "CSL00051",
-    "label": "Letter from Virginia Pratt to Francisco Garcia-Ayvens at CSL",
+    "label": "Letter from Virginia Pratt to Francisco Garcia-Ayvens, June 5, 1984",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00051/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00051_CSL00051_001/square/250,/0/default.jpg",
     "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00051_CSL00051_001/full/full/0/default.jpg",
@@ -417,7 +417,7 @@
   },
   {
     "id": "CSL00053",
-    "label": "Letter from Chicano Center mentioning CSL",
+    "label": "Letter from Chicano Center to Compass Newspaper, February 24, 1969",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00053/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00053_CSL00053_001/square/250,/0/default.jpg",
     "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00053_CSL00053_001/full/full/0/default.jpg",
@@ -425,7 +425,7 @@
   },
   {
     "id": "CSL00054",
-    "label": "Chicano Thesaurus for indexing materials",
+    "label": "Chicano Thesaurus for Indexing Chicano Materials",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00054/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00054_CSL00054_001/square/250,/0/default.jpg",
     "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00054_CSL00054_001/full/full/0/default.jpg",
@@ -433,7 +433,7 @@
   },
   {
     "id": "CSL00055",
-    "label": "Chicano Database Press release with Logo",
+    "label": "Chicano Database Press Release, with Logo",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00055/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00055_CSL00055_001/square/250,/0/default.jpg",
     "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00055_CSL00055_001/full/full/0/default.jpg",
@@ -449,7 +449,7 @@
   },
   {
     "id": "CSL00057",
-    "label": "Chicano Information Management Consortium of CA",
+    "label": "Chicano Information Management Consortium of CA: Draft",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00057/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00057_CSL00057_001/square/250,/0/default.jpg",
     "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00057_CSL00057_001/full/full/0/default.jpg",
@@ -457,7 +457,7 @@
   },
   {
     "id": "CSL00058",
-    "label": "Letter from Thomas Holt to Richard Chabran (VORT)",
+    "label": "Letter from Thomas D. Holt, Vort Corporation, to Richard Chabrán, December 12, 1979",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00058/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00058_CSL00058_001/square/250,/0/default.jpg",
     "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00058_CSL00058_001/full/full/0/default.jpg",
@@ -465,7 +465,7 @@
   },
   {
     "id": "CSL00059",
-    "label": "Chicano Librarian Workshop by Cesar Caballero",
+    "label": "Chicano Librarians Workshop",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00059/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00059_CSL00059_001/square/250,/0/default.jpg",
     "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00059_CSL00059_001/full/full/0/default.jpg",
@@ -473,7 +473,7 @@
   },
   {
     "id": "CSL00060",
-    "label": "Letter showing interest in purchasing subscription to Chicano Periodical Index",
+    "label": "Letter from Norma Radin, University of Michigan, to Richard Chabrán, January 10, 1978",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00060/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00060_CSL00060_001/square/250,/0/default.jpg",
     "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00060_CSL00060_001/full/full/0/default.jpg",
@@ -481,7 +481,7 @@
   },
   {
     "id": "CSL00061",
-    "label": "Letter from Excelsior: interest in writing article about Chicano Index",
+    "label": "Letter from Fausto Fernández Ponte, Excélsior Newspaper, to Richard Chabrán, October 16, 1978",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00061/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00061_CSL00061_001/square/250,/0/default.jpg",
     "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00061_CSL00061_001/full/full/0/default.jpg",
@@ -489,7 +489,7 @@
   },
   {
     "id": "CSL00062",
-    "label": "Grant Request for Chicano Periodical Project Index",
+    "label": "Chicano Periodical Project Index Grant Proposal Cover Page",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00062/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00062_CSL00062_001/square/250,/0/default.jpg",
     "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00062_CSL00062_001/full/full/0/default.jpg",
@@ -497,7 +497,7 @@
   },
   {
     "id": "CSL00063",
-    "label": "CPI Letter of Intent (1981)",
+    "label": "Chicano Periodical Index Letter of Intent",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00063/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00063_CSL00063_001/square/250,/0/default.jpg",
     "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00063_CSL00063_001/full/full/0/default.jpg",
@@ -505,7 +505,7 @@
   },
   {
     "id": "CSL00064",
-    "label": "CPI Project Proposal to National Endowment for the Humanities Research Materials Programs -Tools ",
+    "label": "Chicano Periodical Indexing Project Grant Proposal to National Endowment for the Humanities Research Materials Programs -Tools ",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00064/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00064_CSL00064_001/square/250,/0/default.jpg",
     "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00064_CSL00064_001/full/full/0/default.jpg",
@@ -521,7 +521,7 @@
   },
   {
     "id": "CSL00066",
-    "label": "CPI Launch Press Release (1978)",
+    "label": "Chicano Periodical Index Launch Press Release",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00066/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00066_CSL00066_001/square/250,/0/default.jpg",
     "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00066_CSL00066_001/full/full/0/default.jpg",
@@ -529,7 +529,7 @@
   },
   {
     "id": "CSL00067",
-    "label": "CPI Mailer Advertisement (1979-1981)",
+    "label": "G.K. Hall Publicity Mailer for Chicano Periodical Index, 1979-1981",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00067/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00067_CSL00067_001/square/250,/0/default.jpg",
     "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00067_CSL00067_001/full/full/0/default.jpg",
@@ -537,7 +537,7 @@
   },
   {
     "id": "CSL00068",
-    "label": "CPI Project general meeting minutes",
+    "label": "Chicano Periodical Indexing Project, General Meeting Minutes",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00068/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00068_CSL00068_001/square/250,/0/default.jpg",
     "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00068_CSL00068_001/full/full/0/default.jpg",
@@ -553,7 +553,7 @@
   },
   {
     "id": "CSL00070",
-    "label": "Entry Card from old Serials catalog drawer",
+    "label": "Entry Card from old Serials Catalog Drawer",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00070/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00070_CSL00070_001/square/250,/0/default.jpg",
     "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00070_CSL00070_001/full/full/0/default.jpg",
@@ -569,7 +569,7 @@
   },
   {
     "id": "CSL00072",
-    "label": "Voz de La A.B.C. Volume 1, Number 4",
+    "label": "Voz de La A.B.C., Volume 1, Number 4, May 1976",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00072/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00072_CSL00072_001/square/250,/0/default.jpg",
     "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00072_CSL00072_001/full/full/0/default.jpg",
@@ -577,7 +577,7 @@
   },
   {
     "id": "CSL00073",
-    "label": "6 CSL Collection Posters",
+    "label": "Posters from the Chicano Studies Library Collection",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00073/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00073_CSL00073_001/square/250,/0/default.jpg",
     "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00073_CSL00073_001/full/full/0/default.jpg",
@@ -585,7 +585,7 @@
   },
   {
     "id": "CSL00074",
-    "label": "Bibliopolitica cover and title page",
+    "label": "Biblio-Política: Chicano Perspectives on Library Service in the United States (cover and title page)",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00074/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00074_CSL00074_001/square/250,/0/default.jpg",
     "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00074_CSL00074_001/full/full/0/default.jpg",
@@ -593,7 +593,7 @@
   },
   {
     "id": "CSL00075",
-    "label": "BiblioPolitica Article: Los Apuntes de Padilla: A chicano Prototype for Bibliographic Research",
+    "label": "Apuntes de Padilla: A Chicano Prototype for Bibliographic Research",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00075/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00075_CSL00075_001/square/250,/0/default.jpg",
     "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00075_CSL00075_001/full/full/0/default.jpg",
@@ -601,7 +601,7 @@
   },
   {
     "id": "CSL00076",
-    "label": "Bibliopolitica Article: Notes on the History and Future of Major Academic Chicano Libraries",
+    "label": "Notes on the History and Future of Major Academic Chicano Libraries",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00076/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00076_CSL00076_001/square/250,/0/default.jpg",
     "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00076_CSL00076_001/full/full/0/default.jpg",
@@ -609,7 +609,7 @@
   },
   {
     "id": "CSL00077",
-    "label": "Bibliopolitica: The Usefulness of the Chicano Thesaurus for Indexing Chicano Materials",
+    "label": "Usefulness of the Chicano Thesaurus for Indexing Chicano Materials",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00077/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00077_CSL00077_001/square/250,/0/default.jpg",
     "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00077_CSL00077_001/full/full/0/default.jpg",
@@ -617,7 +617,7 @@
   },
   {
     "id": "CSL00078",
-    "label": "A bibliography of criticism of contemporary Chicano literature - front cover and back cover",
+    "label": "Bibliography of Criticism of Contemporary Chicano Literature (front and back covers)",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00078/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00078_CSL00078_001/square/250,/0/default.jpg",
     "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00078_CSL00078_001/full/full/0/default.jpg",
@@ -625,7 +625,7 @@
   },
   {
     "id": "CSL00079",
-    "label": "A bibliography of criticism of contemporary Chicano literature -  title page",
+    "label": "Bibliography of Criticism of Contemporary Chicano Literature (title page)",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00079/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00079_CSL00079_001/square/250,/0/default.jpg",
     "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00079_CSL00079_001/full/full/0/default.jpg",
@@ -633,7 +633,7 @@
   },
   {
     "id": "CSL00080",
-    "label": "\"Chicano library thriving\" Oakland Tribune article",
+    "label": "\"Chicano library thriving\" article in Oakland Tribune, April 16, 1978",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00080/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00080_CSL00080_001/square/250,/0/default.jpg",
     "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00080_CSL00080_001/full/full/0/default.jpg",
@@ -641,7 +641,7 @@
   },
   {
     "id": "CSL00081",
-    "label": "Occupied America A History of Chicanos ",
+    "label": "Occupied America: A History of Chicanos (title page and preface)",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00081/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00081_CSL00081_001/square/250,/0/default.jpg",
     "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00081_CSL00081_001/full/full/0/default.jpg",
@@ -649,7 +649,7 @@
   },
   {
     "id": "CSL00082",
-    "label": "MALDEF letter from Hariette Surovell to Richard Chabran",
+    "label": "Letter from Hariette Surovell, MALDEF, to Richard Chabrán, April 13, 1978",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00082/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00082_CSL00082_001/square/250,/0/default.jpg",
     "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00082_CSL00082_001/full/full/0/default.jpg",
@@ -657,7 +657,7 @@
   },
   {
     "id": "CSL00083",
-    "label": "Letter from alameda county librarian (Barbara Boyd) to  Francisco Garcia",
+    "label": "Letter from Barbara Boyd, Alameda County librarian, to Francisco García-Ayvens, May 12, 1980",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00083/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00083_CSL00083_001/square/250,/0/default.jpg",
     "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00083_CSL00083_001/full/full/0/default.jpg",
@@ -665,7 +665,7 @@
   },
   {
     "id": "CSL00084",
-    "label": "CD-ROM in the Library Today and Tomorrow",
+    "label": "Chicano Database and the CD-ROM Experience",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00084/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00084_CSL00084_001/square/250,/0/default.jpg",
     "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00084_CSL00084_001/full/full/0/default.jpg",
@@ -673,7 +673,7 @@
   },
   {
     "id": "CSL00085",
-    "label": "Letter from James Danky to Francisco Garcia-Gyvens",
+    "label": "Letter from James P. Danky to Francisco García-Ayvens, March 5, 1984",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00085/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00085_CSL00085_001/square/250,/0/default.jpg",
     "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00085_CSL00085_001/full/full/0/default.jpg",
@@ -689,7 +689,7 @@
   },
   {
     "id": "CSL00087",
-    "label": "Letter from Cesar Caballero to Richard Chabran ",
+    "label": "Letter from Cesar Caballero to Richard Chabrán, October 14, 1981",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00087/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00087_CSL00087_001/square/250,/0/default.jpg",
     "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00087_CSL00087_001/full/full/0/default.jpg",
@@ -697,7 +697,7 @@
   },
   {
     "id": "CSL00088",
-    "label": "Memo to Mesa Directiva from Library and Research Committee",
+    "label": "Memo from the Library and Research Committee to Mesa Directiva, February 7, 1977",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00088/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00088_CSL00088_001/square/250,/0/default.jpg",
     "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00088_CSL00088_001/full/full/0/default.jpg",
@@ -713,7 +713,7 @@
   },
   {
     "id": "CSL00090",
-    "label": "Anglo and Mexicans in the making of Texas, 1836-1986",
+    "label": "Anglos and Mexicans in the making of Texas, 1836-1986 (title page and preface)",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00090/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00090_CSL00090_001/square/250,/0/default.jpg",
     "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00090_CSL00090_001/full/full/0/default.jpg",
@@ -721,10 +721,146 @@
   },
   {
     "id": "CSL00091",
-    "label": "Letter of CSL Assessment from Wilma Salvatori Torri, Italian Researcher",
+    "label": "Letter from Wilma Salvatori Torri, September 10, 1974",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00091/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00091_CSL00091_001/square/250,/0/default.jpg",
     "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00091_CSL00091_001/full/full/0/default.jpg",
     "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fbibliopolitica%2FCSL00091%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "CSL00092",
+    "label": "Bibliography of Writings on La Mujer",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00092/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00092_001/square/250,/0/default.jpg",
+    "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00092_001/full/full/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fbibliopolitica%2FCSL00092%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "CSL00093",
+    "label": "Chicano Resource Journal and Service Handbook (Fall Quarter, 1972)",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00093/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00093_001/square/250,/0/default.jpg",
+    "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00093_001/full/full/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fbibliopolitica%2FCSL00093%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "CSL00094",
+    "label": "Educación en Luz Symposium",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00094/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00094_001/square/250,/0/default.jpg",
+    "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00094_001/full/full/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fbibliopolitica%2FCSL00094%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "CSL00095",
+    "label": "Chicano Library Staff at UFW Headquarters in Kern County",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00095/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00095_CSL_Staff_UFW.headquarters/square/250,/0/default.jpg",
+    "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00095_CSL_Staff_UFW.headquarters/full/full/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fbibliopolitica%2FCSL00095%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "CSL00096",
+    "label": "Chicano Library Staff in Work Room, 102 Wheeler Hall",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00096/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00096_CSL_Workroom_Break/square/250,/0/default.jpg",
+    "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00096_CSL_Workroom_Break/full/full/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fbibliopolitica%2FCSL00096%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "CSL00097",
+    "label": "At Front Desk in the Chicano Studies Library",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00097/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00097_AtFrontDesk-CSL-1993/square/250,/0/default.jpg",
+    "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00097_AtFrontDesk-CSL-1993/full/full/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fbibliopolitica%2FCSL00097%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "CSL00098",
+    "label": "Memorial for Cesar Chavez",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00098/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00098_CesarChavezMemorial1993/square/250,/0/default.jpg",
+    "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00098_CesarChavezMemorial1993/full/full/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fbibliopolitica%2FCSL00098%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "CSL00099",
+    "label": "Birthday Celebration in the Chicano Studies Library",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00099/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00099_BirthdayCelebration_CSL/square/250,/0/default.jpg",
+    "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00099_BirthdayCelebration_CSL/full/full/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fbibliopolitica%2FCSL00099%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "CSL00100",
+    "label": "Día de los Muertos in the Chicano Studies Library",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00100/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00100_DiadelosMuertos/square/250,/0/default.jpg",
+    "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00100_DiadelosMuertos/full/full/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fbibliopolitica%2FCSL00100%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "CSL00101",
+    "label": "Día de los Muertos Celebration at the Chicano Studies Library",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00101/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00101_DiaMuertos_Celebration/square/250,/0/default.jpg",
+    "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00101_DiaMuertos_Celebration/full/full/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fbibliopolitica%2FCSL00101%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "CSL00102",
+    "label": "Lillian Castillo-Speed in Chicano Studies Office",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00102/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00102_LCS_office/square/250,/0/default.jpg",
+    "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00102_LCS_office/full/full/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fbibliopolitica%2FCSL00102%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "CSL00103",
+    "label": "Lillian Castillo-Speed Packs the Office",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00103/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00103_LCS_packs_office/square/250,/0/default.jpg",
+    "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00103_LCS_packs_office/full/full/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fbibliopolitica%2FCSL00103%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "CSL00104",
+    "label": "Lillian Castillo-Speed Opening Remarks",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00104/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00104_LCS_ESL_Opening/square/250,/0/default.jpg",
+    "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00104_LCS_ESL_Opening/full/full/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fbibliopolitica%2FCSL00104%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "CSL00105",
+    "label": "Opening of the Ethnic Studies Library",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00105/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00105_Librarians_ESL_Opening/square/250,/0/default.jpg",
+    "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00105_Librarians_ESL_Opening/full/full/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fbibliopolitica%2FCSL00105%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "CSL00106",
+    "label": "Boycott U.C. Dining Facilities Poster",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00106/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00106/square/250,/0/default.jpg",
+    "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00106/full/full/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fbibliopolitica%2FCSL00106%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "CSL00107",
+    "label": "Viet Nam/Aztlan Poster",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00107/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00107/square/250,/0/default.jpg",
+    "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00107/full/full/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fbibliopolitica%2FCSL00107%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "CSL00108",
+    "label": "Educación en Luz Symposium Poster",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/bibliopolitica/CSL00108/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00108/square/250,/0/default.jpg",
+    "full_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/bibliopolitica_CSL00108/full/full/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fbibliopolitica%2FCSL00108%2Fmanifest.json&theme=dark"
   }
 ]
